@@ -8,8 +8,9 @@
   },
   "author": "ian",
   "repository":
-    { "type": "git"
-    , "url" : ""}
+    { "type" : "git"
+    , "url" : "https://github.com/ianialator/Youdo"
+    }
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3"
